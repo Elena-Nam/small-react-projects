@@ -58,3 +58,5 @@ All code in this repository has been **rewritten and customized** for personal l
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+**Note:** This repo is for learning. Original tutorials belong to John Smilga.
