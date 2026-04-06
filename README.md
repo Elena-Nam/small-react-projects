@@ -1,22 +1,16 @@
 # React Projects
+This repository contains my implementations of React projects inspired by the **[React Course by John Smilga](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)**.  
+All code in this repository has been **rewritten and customized** for personal learning and practice purposes.
 
-#### React Course
+## Tutorial Reference
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+- **Course Website / Projects Demo:** [React Projects Site](https://react-projects.netlify.app/)  
+- **Original Tutorial Video:** [React Tutorial](https://youtu.be/iZhV0bILFb0)  
+- **Support the Author:** [Buy Me a Coffee](https://www.buymeacoffee.com/johnsmilga)
 
-#### Support
+---
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
+##  Tutorial Topics
 
 #### useState
 
@@ -55,8 +49,6 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 15. Cocktails
 
 ## Advanced Projects (Course Exclusive)
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 16. Markdown Preview
 17. Random Person
